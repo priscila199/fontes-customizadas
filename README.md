@@ -1,5 +1,5 @@
 # Fontes Customizadas
-Projeto para exemplificar as fontes customizadas utilizando HTML e CSS.
+Projeto para exemplificar as fontes customizadas (no exemplo foi usado o Google Fonts) utilizando HTML e CSS.
 
 ## Resultado Final
 
