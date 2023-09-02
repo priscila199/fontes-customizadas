@@ -5,6 +5,6 @@ Projeto para exemplificar as fontes customizadas (no exemplo foi usado o Google 
 
 [<img src="./resultado.jpg" alt="fontes customizadas usando HTML e CSS">](https://priscila199.github.io/fontes-customizadas/)
 
-## Tecnologia Utilizada
+## Tecnologias Utilizadas
 - HTML
 - CSS
